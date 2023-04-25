@@ -1,0 +1,13 @@
+Type: Jupyter Notebook Extension
+Compatibility: 3.x, 4.x, 5.x, 6.x
+Name: JupyterGPT
+Main: main.js
+Link: README.md
+Description: |
+  Let's you ask questions to ChatGPT using the contents of a cell.
+  Displays ChatGPT's response in the next cell. 
+  Two buttons are added to accomplisht the specific tasks - 
+    1) "Ask ChatGPT" to ask general questions to chatGPT, responses are text in a markdown cell. This doesn't take into account the context of the previous cells.
+    2) "Ask AnalystGPT" to generate code for the given task, responses are Python code that gets executed in a code cell below. Takes into account the code already present above. 
+Parameters:
+- none
