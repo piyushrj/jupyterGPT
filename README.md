@@ -2,13 +2,13 @@
 
 A Jupyter Notebook extension that let's you use chatGPT inside your Jupyter Notebooks. The extension offers two functionalities -
 1. **Ask ChatGPT** 
-![Ask ChatGPT Demo](assets/ask_chatgpt_demo.gif)
+![Ask ChatGPT Demo](assets/ask_chatgpt_demo_720p.gif)
 - Ask any question to chatGPT and it will give you the response in a markdown cell below. 
 - Useful for general purpose queries, for example, "what is the difference between precision and recall?", "name the recent five US Presidents", etc.
 - To use this, type your question in a cell and then click the "Ask ChatGPT" button (indicated by a lightbulb) in the toolbar.
 
 2. **Ask AnalystGPT** 
-![Ask AnalystGPT Demo](assets/ask_analystgpt_demo.gif)
+![Ask AnalystGPT Demo](assets/ask_analystgpt_demo_720p.gif)
 - Use this for data analysis tasks (or tasks that require some code execution). Ask the question to chatGPT and it return and execute the resulting code in a code cell below. 
 - Useful for code generation and data analysis queries, for example, "read the 'Iris.csv' file and show the first 7 rows", "plot a histogram of the values in the Height column", etc.
 - To use this, type your question in a cell and then click the "Ask AnalystGPT" button (indicated by coding angular brackets) in the toolbar.
